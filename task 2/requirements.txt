@@ -1,0 +1,8 @@
+datasets==3.6.0
+kagglehub==0.3.13
+numpy==2.3.3
+Pillow==11.3.0
+scikit_learn==1.7.2
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
+transformers==4.53.1
